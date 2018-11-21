@@ -3,8 +3,8 @@ Guides to get up and running with Looker!
 
 These files can be edited by contributors so that we can make these guides ever more useful and comprehensive.  
 
-In files with a ".sql" extension, SQL code will be colored appropriately. 
-In files with a ".md" extension, markdown formatting will apply (such as using double-space to go to a new line)
+In files with a ".sql" extension, SQL code will be colored appropriately.   
+In files with a ".md" extension, markdown formatting will apply (such as using double-space to go to a new line)  
 
 Comments should be prepended with "--" or "//"  
 
