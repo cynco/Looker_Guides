@@ -7,4 +7,9 @@ SQL code will be colored appropriately.
 
 Comments should be prepended with "--" or "//"
 
-Supplementing explanations with Resy-related examples is highly encouraged. 
+Elements that are highly encouraged are: 
+    - actual SQL code that worked for you
+    - Resy-related examples in the explanations
+    - warnings about any nuances you encountered
+    - Links to helpful resources (no need to re-write something that's already well explained elsewhere)
+
