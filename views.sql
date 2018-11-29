@@ -72,4 +72,12 @@ view: user_facts {
        
 }
   
+  -- A very easy way to create a view is to compose a query in SQLRunner 
+  -- for how you want the view to look and then to select 
+  -- "Get derived table LookML" from the gear symbol at the top right corner."
+  
+  -- To make a view available in the Explore window of a given model, go to
+  -- Develop -> projectName -> Models -> myModel. In that model's file, 
+  -- add a join statement for the view you want to add. 
+  -- The "join: " argument should be the exact name of the view you'e adding.
 
